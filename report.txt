@@ -1,0 +1,5 @@
+ELECTRONICS SALES REPORT
+=============================
+Total Revenue: 209307999.0
+Total Transactions: 4203
+Unique Customers: 795
